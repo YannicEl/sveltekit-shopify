@@ -9,40 +9,40 @@ importers:
   .:
     devDependencies:
       '@playwright/test':
-        specifier: ^1.28.1
+        specifier: 1.44.1
         version: 1.44.1
       '@sveltejs/adapter-cloudflare':
-        specifier: ^3.0.0
+        specifier: 3.0.2
         version: 3.0.2(@sveltejs/kit@2.5.10(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.148)(vite@5.2.12))(svelte@5.0.0-next.148)(vite@5.2.12))
       '@sveltejs/kit':
-        specifier: ^2.0.0
+        specifier: 2.5.10
         version: 2.5.10(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.148)(vite@5.2.12))(svelte@5.0.0-next.148)(vite@5.2.12)
       '@sveltejs/vite-plugin-svelte':
-        specifier: ^3.0.0
+        specifier: 3.1.1
         version: 3.1.1(svelte@5.0.0-next.148)(vite@5.2.12)
       prettier:
-        specifier: ^3.1.1
+        specifier: 3.3.0
         version: 3.3.0
       prettier-plugin-svelte:
-        specifier: ^3.1.2
+        specifier: 3.2.3
         version: 3.2.3(prettier@3.3.0)(svelte@5.0.0-next.148)
       svelte:
-        specifier: ^5.0.0-next.1
+        specifier: 5.0.0-next.148
         version: 5.0.0-next.148
       svelte-check:
-        specifier: ^3.6.0
+        specifier: 3.8.0
         version: 3.8.0(postcss@8.4.38)(svelte@5.0.0-next.148)
       tslib:
-        specifier: ^2.4.1
+        specifier: 2.6.2
         version: 2.6.2
       typescript:
-        specifier: ^5.0.0
+        specifier: 5.4.5
         version: 5.4.5
       vite:
-        specifier: ^5.0.3
+        specifier: 5.2.12
         version: 5.2.12
       vitest:
-        specifier: ^1.2.0
+        specifier: 1.6.0
         version: 1.6.0
 
 packages:
